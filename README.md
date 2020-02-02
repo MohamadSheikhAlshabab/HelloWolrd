@@ -4,9 +4,12 @@ You can use the [editor on GitHub](https://github.com/MohamadSheikhAlshabab/Hell
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# My explain of growth mind:
+# My explaination of growth mindset:
 
-1. To keep have a growth mind you should foucse how to find a new way to solve any problem facing in coding.
+- A growth mindset depend on keep going forward and hard work.
+- In other hand , a growth mindset means keep update yourself and your background.
+
+1. To keep a growth mindset you should focus how to find a new way to solve any problem facing in coding.
 2. Also encourge your self to give extra effort to figure out the soultion
 3. anthor thing help friend and ask him for help . 
 
@@ -48,8 +51,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and 
-![Image](https://www.google.com/url?sa=i&source=imgres&cd=&ved=2ahUKEwjat83w7LLnAhWy4YUKHdhSBR4QjRx6BAgBEAQ&url=https%3A%2F%2Ficatcare.org%2Fadvice%2Fthinking-of-getting-a-cat%2F&psig=AOvVaw0i52SzHk6QPlJtbOKaLiDV&ust=1580732310795289)
+[Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and 
+![Cat](https://i1.wp.com/www.euro-secure.com/news/wp-content/uploads/2017/07/pexels-photo-177809-1.jpg?resize=1140%2C560&ssl=1)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
