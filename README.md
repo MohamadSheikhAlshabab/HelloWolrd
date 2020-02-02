@@ -48,7 +48,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and ![Image](https://cdn.cnn.com/cnnnext/dam/assets/180830100926-02-new-zealand-cat-stock-super-tease.jpg)
+[Link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and 
+![Image](https://cdn.cnn.com/cnnnext/dam/assets/180830100926-02-new-zealand-cat-stock-super-tease.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
