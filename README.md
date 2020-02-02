@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/MohamadSheikhAlshabab/Hell
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# My explain of growth mind:
+
+1. To keep have a growth mind you should foucse how to find a new way to solve any problem facing in coding.
+2. Also encourge your self to give extra effort to figure out the soultion
+3. anthor thing help friend and ask him for help . 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -21,9 +27,28 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+
+- [x] get ready to challenage.
+- [ ] stay lazy.
+- [ ] go to sleep.
+
+
+1.  101 code done. 
+      - 102 code still working.
+        - get ready for 201 coding
+        
+ 1.practise .
+ 2. practise .
+ 3. practise .
+## WHO AM I ?
+ 
+ My name is Mohamad ,I'm Telecommunication engineer.I can solve a Rubik's cube.
+ 
+ My github is : (https://github.com/MohamadSheikhAlshabab)
+
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and ![Image](https://cdn.cnn.com/cnnnext/dam/assets/180830100926-02-new-zealand-cat-stock-super-tease.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
