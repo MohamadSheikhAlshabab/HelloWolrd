@@ -16,7 +16,7 @@ ex:
 ex: **Hello World**
 
 -italic: to make word or some text is italic simply by adding before and after the word or text * or _
-ex:_Hello world_
+ex:_Hello **world**_
 
 -Unorder list :
 * 1
