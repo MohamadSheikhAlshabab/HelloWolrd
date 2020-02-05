@@ -24,7 +24,7 @@
    - types :
       1. Assignment Operators.
       1. Comparison Operators : > , < ,<= ,>= .
-      1. Logical Operators : && , ! and  |_ | .
+      1. Logical Operators : && , ! .
       1. Arithmetic Operators : +,-,/,*,++,-- and %.
       1. String Operators : using "" and ''.
     
