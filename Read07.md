@@ -1,6 +1,6 @@
 # Read: 07 - Programming with JavaScript
 
- ** Before You Start :**
+ **Before You Start :**
   - you should to do :
   1. What your Goals ?
   1. Design your script.
