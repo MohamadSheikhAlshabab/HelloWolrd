@@ -14,10 +14,10 @@
 
 ## Logical operators :
  - && : logical and.
- - || : logical or.
+ - '|'|' : logical or.
  - ! : logical not.
  
  ### Loops :
  - consist from reserved keyword called **for** plus condition and two curl brace and between them 
    put what code to execute.
- - Can use loop by two reserved keyword **for** and **while** .
+ - Can use loop by two reserved keyword **for** , **do while** and **while** .
